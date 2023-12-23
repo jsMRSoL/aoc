@@ -1,0 +1,303 @@
+
+running 1 test
+Gear locations:
+[
+    Point {
+        x: 3,
+        y: 1,
+    },
+    Point {
+        x: 3,
+        y: 4,
+    },
+    Point {
+        x: 5,
+        y: 8,
+    },
+]
+Num locations:
+{
+    Point {
+        x: 0,
+        y: 0,
+    }: NumElement {
+        value: 4,
+        root_address: Point {
+            x: 0,
+            y: 0,
+        },
+    },
+    Point {
+        x: 0,
+        y: 4,
+    }: NumElement {
+        value: 6,
+        root_address: Point {
+            x: 0,
+            y: 4,
+        },
+    },
+    Point {
+        x: 1,
+        y: 0,
+    }: NumElement {
+        value: 46,
+        root_address: Point {
+            x: 0,
+            y: 0,
+        },
+    },
+    Point {
+        x: 1,
+        y: 4,
+    }: NumElement {
+        value: 61,
+        root_address: Point {
+            x: 0,
+            y: 4,
+        },
+    },
+    Point {
+        x: 1,
+        y: 9,
+    }: NumElement {
+        value: 6,
+        root_address: Point {
+            x: 1,
+            y: 9,
+        },
+    },
+    Point {
+        x: 2,
+        y: 0,
+    }: NumElement {
+        value: 467,
+        root_address: Point {
+            x: 0,
+            y: 0,
+        },
+    },
+    Point {
+        x: 2,
+        y: 2,
+    }: NumElement {
+        value: 3,
+        root_address: Point {
+            x: 2,
+            y: 2,
+        },
+    },
+    Point {
+        x: 2,
+        y: 4,
+    }: NumElement {
+        value: 617,
+        root_address: Point {
+            x: 0,
+            y: 4,
+        },
+    },
+    Point {
+        x: 2,
+        y: 6,
+    }: NumElement {
+        value: 5,
+        root_address: Point {
+            x: 2,
+            y: 6,
+        },
+    },
+    Point {
+        x: 2,
+        y: 9,
+    }: NumElement {
+        value: 66,
+        root_address: Point {
+            x: 1,
+            y: 9,
+        },
+    },
+    Point {
+        x: 3,
+        y: 2,
+    }: NumElement {
+        value: 35,
+        root_address: Point {
+            x: 2,
+            y: 2,
+        },
+    },
+    Point {
+        x: 3,
+        y: 6,
+    }: NumElement {
+        value: 59,
+        root_address: Point {
+            x: 2,
+            y: 6,
+        },
+    },
+    Point {
+        x: 3,
+        y: 9,
+    }: NumElement {
+        value: 664,
+        root_address: Point {
+            x: 1,
+            y: 9,
+        },
+    },
+    Point {
+        x: 4,
+        y: 6,
+    }: NumElement {
+        value: 592,
+        root_address: Point {
+            x: 2,
+            y: 6,
+        },
+    },
+    Point {
+        x: 5,
+        y: 0,
+    }: NumElement {
+        value: 1,
+        root_address: Point {
+            x: 5,
+            y: 0,
+        },
+    },
+    Point {
+        x: 5,
+        y: 9,
+    }: NumElement {
+        value: 5,
+        root_address: Point {
+            x: 5,
+            y: 9,
+        },
+    },
+    Point {
+        x: 6,
+        y: 0,
+    }: NumElement {
+        value: 11,
+        root_address: Point {
+            x: 5,
+            y: 0,
+        },
+    },
+    Point {
+        x: 6,
+        y: 2,
+    }: NumElement {
+        value: 6,
+        root_address: Point {
+            x: 6,
+            y: 2,
+        },
+    },
+    Point {
+        x: 6,
+        y: 7,
+    }: NumElement {
+        value: 7,
+        root_address: Point {
+            x: 6,
+            y: 7,
+        },
+    },
+    Point {
+        x: 6,
+        y: 9,
+    }: NumElement {
+        value: 59,
+        root_address: Point {
+            x: 5,
+            y: 9,
+        },
+    },
+    Point {
+        x: 7,
+        y: 0,
+    }: NumElement {
+        value: 114,
+        root_address: Point {
+            x: 5,
+            y: 0,
+        },
+    },
+    Point {
+        x: 7,
+        y: 2,
+    }: NumElement {
+        value: 63,
+        root_address: Point {
+            x: 6,
+            y: 2,
+        },
+    },
+    Point {
+        x: 7,
+        y: 5,
+    }: NumElement {
+        value: 5,
+        root_address: Point {
+            x: 7,
+            y: 5,
+        },
+    },
+    Point {
+        x: 7,
+        y: 7,
+    }: NumElement {
+        value: 75,
+        root_address: Point {
+            x: 6,
+            y: 7,
+        },
+    },
+    Point {
+        x: 7,
+        y: 9,
+    }: NumElement {
+        value: 598,
+        root_address: Point {
+            x: 5,
+            y: 9,
+        },
+    },
+    Point {
+        x: 8,
+        y: 2,
+    }: NumElement {
+        value: 633,
+        root_address: Point {
+            x: 6,
+            y: 2,
+        },
+    },
+    Point {
+        x: 8,
+        y: 5,
+    }: NumElement {
+        value: 58,
+        root_address: Point {
+            x: 7,
+            y: 5,
+        },
+    },
+    Point {
+        x: 8,
+        y: 7,
+    }: NumElement {
+        value: 755,
+        root_address: Point {
+            x: 6,
+            y: 7,
+        },
+    },
+}
+.
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
