@@ -1,14 +1,6 @@
-pub fn add(left: usize, right: usize) -> usize {
-    left + right
-}
+#![allow(unused)]
+const TEST_INPUT: &str = include_str!("./test_input.txt");
+const INPUT: &str = include_str!("./input.txt");
 
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
-    }
-}
+mod part_01;
+mod part_02;
