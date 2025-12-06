@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+
+members = [ "day_*" ]
+
+[workspace.dependencies]
+rstest = "0.18.2"
