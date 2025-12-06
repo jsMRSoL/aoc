@@ -5,4 +5,5 @@ resolver = "2"
 members = [ "day_*" ]
 
 [workspace.dependencies]
+nom = "8.0.0"
 rstest = "0.18.2"
